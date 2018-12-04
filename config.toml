@@ -1,0 +1,61 @@
+baseURL = "http://spadino.github.io/"
+languageCode = "en-us"
+title = "Luthier. Musician. Nerd."
+
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+enableEmoji = true
+publishDir = "../publish"
+
+copyright = "Andrea Spada - All rights reserved"
+disqusShortname = "shortDisquis"
+#googleAnalytics = "UA-1XXXXXXX1-X"
+
+[params]
+  logo = "/images/logo.png"
+  description ="Messy blog!"
+#  mailchimp = "you can provide a mailchimp-link here, see below"
+#  mailprotect = "you can provide a protector-name here, see below"
+
+[params.author]
+  name = "Andrea Spada"
+  thumbnail = "/images/portrait.png"
+  description = "The nerdy craftsman behind that mess..."
+
+[params.index]
+  picture = "/images/portrait.png"
+  title = "Andrea Spada"
+  subtitle = "Luthier. Musician. Nerd."
+  mdtext = '''Currently trying to get this blog running, still don't know what the blog will be about!\
+**This textblock is a demonstration of the mdtext-param.**\
+### This is a markdown heading'''
+  alertbar = true
+
+[params.social]
+  github = "spadino"
+  #linkedin = "<username>"
+  #xing = "<username>"
+  #medium = "<username>"
+  #twitter = "<username>"
+
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about-me"
+    weight = 200
+    url = "/about-me"
+
+#[[menu.main]]
+#    name = "Imprint"
+#    identifier = "imprint"
+#    weight = 300
+#	url = "/static/imprint"
+
+
+
