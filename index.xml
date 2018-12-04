@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luthier. Musician. Nerd.</title>
+    <link>http://spadino.github.io/</link>
+    <description>Recent content on Luthier. Musician. Nerd.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Andrea Spada - All rights reserved</copyright>
+    <lastBuildDate>Tue, 04 Dec 2018 13:14:03 -0200</lastBuildDate>
+    
+	<atom:link href="http://spadino.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>It&#39;s Alive</title>
+      <link>http://spadino.github.io/blog/its-alive/</link>
+      <pubDate>Tue, 04 Dec 2018 13:14:03 -0200</pubDate>
+      
+      <guid>http://spadino.github.io/blog/its-alive/</guid>
+      <description>Basic structure functional and working I just found a charming template - that one! - made by Wow Themes and so I started switching my previous hugo onepage to something more ample.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://spadino.github.io/about-me/</link>
+      <pubDate>Tue, 04 Dec 2018 13:02:16 -0200</pubDate>
+      
+      <guid>http://spadino.github.io/about-me/</guid>
+      <description>So, here we are: who am I? I&amp;rsquo;m an italian born guy, currently living in Brazil. I studied to became am artisan, mainly a designer and sculptor however, being caught by the love for music during my teen ages I turned myself in a musician and, later, in a luthier.</description>
+    </item>
+    
+  </channel>
+</rss>
