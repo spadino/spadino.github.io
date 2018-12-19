@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Andrea Spada - All rights reserved</copyright>
-    <lastBuildDate>Tue, 04 Dec 2018 13:14:03 -0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Dec 2018 12:13:35 -0200</lastBuildDate>
     
 	<atom:link href="http://spadino.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OS I dared to be used too</title>
+      <link>http://spadino.github.io/blog/os/</link>
+      <pubDate>Wed, 19 Dec 2018 12:13:35 -0200</pubDate>
+      
+      <guid>http://spadino.github.io/blog/os/</guid>
+      <description>In the beginning As almost any guy of my ages, I started to deal with computers with a console - Commode64 and later Amiga 500 - then, naturally, went to Windows 1.</description>
+    </item>
     
     <item>
       <title>It&#39;s Alive</title>
