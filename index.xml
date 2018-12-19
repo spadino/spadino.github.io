@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luthier. Musician. Nerd.</title>
+    <title>Spadino</title>
     <link>http://spadino.github.io/</link>
-    <description>Recent content on Luthier. Musician. Nerd.</description>
+    <description>Recent content on Spadino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Andrea Spada - All rights reserved</copyright>
-    <lastBuildDate>Wed, 19 Dec 2018 12:13:35 -0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Dec 2018 18:19:11 -0200</lastBuildDate>
     
 	<atom:link href="http://spadino.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Which lingua você habla, mon cher?</title>
+      <link>http://spadino.github.io/blog/whichlinguatuhabla/</link>
+      <pubDate>Wed, 19 Dec 2018 18:19:11 -0200</pubDate>
+      
+      <guid>http://spadino.github.io/blog/whichlinguatuhabla/</guid>
+      <description>Toward a polyglot existence I always felt great admiration and quite a powerful envy for peoples able to communicate in many languages. It&amp;rsquo;s frankly something I consider almost necessary, especially from an European view, and it surprise me when I encounter guys of my age which do not known at least another language beside their native one.</description>
+    </item>
     
     <item>
       <title>OS I dared to be used too</title>
