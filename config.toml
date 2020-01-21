@@ -26,9 +26,8 @@ disqusShortname = "shortDisquis"
   picture = "/images/portrait.png"
   title = "Andrea Spada"
   subtitle = "Luthier. Musician. Nerd."
-  mdtext = '''Currently trying to get this blog running, still don't know what the blog will be about!\
-**This textblock is a demonstration of the mdtext-param.**\
-### This is a markdown heading'''
+  mdtext = "Minimal blog regard my adventures in the coding world..."
+
   alertbar = true
 
 [params.social]
