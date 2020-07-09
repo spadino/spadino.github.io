@@ -8,11 +8,11 @@ License: https://www.wowthemes.net/freebies-license/
     padding:1rem 0rem;
 }
 a {
-    color:#00ab6b;
+    color:#e78a1f;
     transition:all 0.2s;
 }
 a:hover {
-    color: #038252;
+    color: #2e8cca;
     text-decoration:none;
 }
 pre {
@@ -198,7 +198,7 @@ span.post-name a,span.post-read-more a:hover {
 }
 .mediumnavigation .form-inline .btn:hover,.mediumnavigation .form-inline .btn:active {
     background:transparent;
-    color:green;
+    color:rgba(34, 118, 228, 0.97);
 }
 .mediumnavigation .navbar-brand {
     font-weight:500;
@@ -470,6 +470,10 @@ ul.tags li a:hover {
     height:34px;
     letter-spacing:0.5px;
     cursor: pointer;
+}
+.alertbar img {
+	width: 128px;
+	height: 128px;
 }
 .form-control::-webkit-input-placeholder {
     color: rgba(0,0,0,.5);
