@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Luthier. Musician. Nerd.</title>
+    <link>http://spadino.github.io/blog/</link>
+    <description>Recent content in Blogs on Luthier. Musician. Nerd.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Andrea Spada - All rights reserved</copyright>
+    <lastBuildDate>Tue, 12 Feb 2019 11:12:54 -0300</lastBuildDate><atom:link href="http://spadino.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In the Search for the Holy Grail</title>
+      <link>http://spadino.github.io/blog/in-the-search-for-the-holy-grail/</link>
+      <pubDate>Tue, 12 Feb 2019 11:12:54 -0300</pubDate>
+      
+      <guid>http://spadino.github.io/blog/in-the-search-for-the-holy-grail/</guid>
+      <description>Why it&amp;rsquo;s so hard to find a good static generator able to deal with multi language content? It seems that there is an huge number of static generators out there, yet they seems to fit inside very constrained categories, when seeing from a polyglot perspective:</description>
+    </item>
+    
+    <item>
+      <title>Which lingua você habla, mon cher?</title>
+      <link>http://spadino.github.io/blog/which-lingua-voce-abla-moncher/</link>
+      <pubDate>Sat, 19 Jan 2019 14:05:58 -0300</pubDate>
+      
+      <guid>http://spadino.github.io/blog/which-lingua-voce-abla-moncher/</guid>
+      <description>Toward a polyglot existence I always felt great admiration and quite a powerful envy for peoples able to communicate in many languages. It’s frankly something I consider almost necessary, especially from an European view, and it surprise me when I encounter guys of my age which do not known at least another language beside their native one.</description>
+    </item>
+    
+    <item>
+      <title>Os I Dared to be used to</title>
+      <link>http://spadino.github.io/blog/os-i-dared-to-be-used-to/</link>
+      <pubDate>Wed, 19 Dec 2018 14:04:26 -0300</pubDate>
+      
+      <guid>http://spadino.github.io/blog/os-i-dared-to-be-used-to/</guid>
+      <description>In the beginning As almost any guy of my ages, I started to deal with computers with a console - Commode64 and later Amiga 500 - then, naturally, went to Windows 1.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s Alive</title>
+      <link>http://spadino.github.io/blog/its-alive/</link>
+      <pubDate>Tue, 04 Dec 2018 13:14:03 -0200</pubDate>
+      
+      <guid>http://spadino.github.io/blog/its-alive/</guid>
+      <description>Basic structure functional and working I just found a charming template - that one! - made by Wow Themes and so I started switching my previous hugo onepage to something more ample.</description>
+    </item>
+    
+  </channel>
+</rss>

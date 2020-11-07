@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post on Luthier. Musician. Nerd.</title>
+    <link>http://spadino.github.io/tags/post/</link>
+    <description>Recent content in post on Luthier. Musician. Nerd.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Andrea Spada - All rights reserved</copyright>
+    <lastBuildDate>Tue, 04 Dec 2018 13:14:03 -0200</lastBuildDate><atom:link href="http://spadino.github.io/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It&#39;s Alive</title>
+      <link>http://spadino.github.io/blog/its-alive/</link>
+      <pubDate>Tue, 04 Dec 2018 13:14:03 -0200</pubDate>
+      
+      <guid>http://spadino.github.io/blog/its-alive/</guid>
+      <description>Basic structure functional and working I just found a charming template - that one! - made by Wow Themes and so I started switching my previous hugo onepage to something more ample.</description>
+    </item>
+    
+  </channel>
+</rss>
