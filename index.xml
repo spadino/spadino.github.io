@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Andrea Spada - All rights reserved</copyright>
-    <lastBuildDate>Tue, 12 Feb 2019 11:12:54 -0300</lastBuildDate><atom:link href="http://spadino.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Nov 2020 15:26:59 -0300</lastBuildDate><atom:link href="http://spadino.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Is the New Black</title>
+      <link>http://spadino.github.io/blog/hugo-is-the-new-black/</link>
+      <pubDate>Sat, 14 Nov 2020 15:26:59 -0300</pubDate>
+      
+      <guid>http://spadino.github.io/blog/hugo-is-the-new-black/</guid>
+      <description>So, finally I see that Hugo is the way to go.
+Premisses Indeed, it&amp;rsquo;s hard to find a static site generator which allow for a clever organization and maintance of side-by-side languages, either for content or for user interaction.</description>
+    </item>
+    
     <item>
       <title>In the Search for the Holy Grail</title>
       <link>http://spadino.github.io/blog/in-the-search-for-the-holy-grail/</link>
